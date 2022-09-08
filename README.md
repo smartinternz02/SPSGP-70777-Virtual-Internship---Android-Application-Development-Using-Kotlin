@@ -33,6 +33,7 @@ Unit 6:Work Manager
 Duration: 6 Hrs
 Skill Tags: Use Android Jetpack’s WorkManager API to schedule necessary background work, like backing up data or downloading fresh content, that keeps running even if the app exits or the device restarts.
 
+💫PROJECT💫
 
 I want to search for nearby places (ex: hospitals, schools, general clinics, etc.) in a certain radius of the user's current location. I have successfully managed to get the users current location, but don't know how to look for nearby places in the radius. I have managed to set up the html-attributions to get the nearby places, which looks like the following: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${location.latitude},${location.longitude}&radius=1500&type=restaurant&key=YOUR_API_KEY (I have put my key)
 
